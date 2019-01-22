@@ -2,6 +2,11 @@ body {
 	background-color: lightblue;
 }
 
+img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #info {
 	background-color: white;
 	text-align: center;
